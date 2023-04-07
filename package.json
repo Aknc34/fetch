@@ -23,7 +23,7 @@
     "prettier": "^1.19.1",
     "promise-polyfill": "6.0.2",
     "rollup": "^0.59.1",
-    "url-search-params": "0.6.1"
+    "url-search-params": "0.10.2"
   },
   "files": [
     "LICENSE",
